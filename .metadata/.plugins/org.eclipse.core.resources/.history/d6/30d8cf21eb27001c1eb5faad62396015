@@ -1,0 +1,13 @@
+package test03;
+
+import java.util.Calendar;
+
+public class DateFactory {
+
+	public static Date getInstance() {
+		
+		Calendar cal = Calendar.getInstance();
+		int date = cal.get(Calendar.DAY_OF_YEAR);
+		
+	}
+}

@@ -1,0 +1,27 @@
+package test02;
+
+import java.util.Calendar;
+
+public class DayFactory {
+
+	// ApplicationContext에 bean을 등록하기 위해 사용하는 Factory method, static이어야 함
+	public static Week getInstance() {
+
+		Calendar cal = Calendar.getInstance();
+		int day = cal.get(Calendar.DAY_OF_WEEK);
+
+		switch (day) {
+		case 1: return new Sunday();
+		case 2:
+		case 3:
+		case 4:
+		case 5:
+		case 6:
+		case 7:
+
+		default:
+			break;
+		}
+	}
+
+}

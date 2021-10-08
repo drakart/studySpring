@@ -1,0 +1,15 @@
+package test03;
+
+import java.util.Calendar;
+
+public class DateFactory {
+
+	public static Date getInstance() {
+		
+		Calendar cal = Calendar.getInstance();
+		return new Today();
+		
+		
+		
+	}
+}

@@ -1,0 +1,15 @@
+package templateMethod.framework.dao;
+
+import java.sql.Connection;
+
+public class MemberDao {
+
+	public String selectPassword(String userId) {
+		
+		String password = "";
+		Connection conn = null;
+		
+		return password;
+	}
+	
+}

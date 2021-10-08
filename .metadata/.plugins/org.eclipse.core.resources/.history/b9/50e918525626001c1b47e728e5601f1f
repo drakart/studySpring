@@ -1,0 +1,10 @@
+package templateMethod.framework.dao;
+
+public class MemberDao {
+
+	public String selectPassword(String userId) {
+		
+		return "";
+	}
+	
+}
