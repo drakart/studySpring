@@ -28,7 +28,6 @@
     <fullyQualifiedTypeName name="test02.Thursday"/>
     <fullyQualifiedTypeName name="test02.Friday"/>
     <fullyQualifiedTypeName name="test02.Saturday"/>
-    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="test03.Today"/>
     <fullyQualifiedTypeName name="test03.Date"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
@@ -37,9 +36,19 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="proxy.Woman"/>
+    <fullyQualifiedTypeName name="proxy.ManProxy"/>
+    <fullyQualifiedTypeName name="proxy.WomanProxy"/>
+    <fullyQualifiedTypeName name="proxy.Developer"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="proxy.MyAspect"/>
 </qualifiedTypeNameHistroy>
