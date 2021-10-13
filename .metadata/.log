@@ -11027,3 +11027,12 @@ Contains: Missing oracle:ojdbc6:jar:javadoc:11.2.0.3
 !MESSAGE Could not resolve artifact oracle:ojdbc6:jar:javadoc:11.2.0.3
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-10-13 15:18:24.066
 !MESSAGE Missing oracle:ojdbc6:jar:javadoc:11.2.0.3
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-10-13 15:20:40.958
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-10-13 15:20:40.960
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-10-13 15:20:40.963
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
