@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-C:\CODE\f_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\648987399.index
-\test\src
-C:\CODE\f_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\937956122.index
-\spring04_mybatis\src\main\java
